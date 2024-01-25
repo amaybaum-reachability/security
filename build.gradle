@@ -403,7 +403,7 @@ dependencies {
     implementation 'org.opensaml:opensaml-storage-api:3.4.5'
     implementation 'commons-lang:commons-lang:2.4'
     implementation 'commons-collections:commons-collections:3.2.2'
-    implementation 'com.jayway.jsonpath:json-path:2.4.0'
+    implementation 'com.jayway.jsonpath:json-path:2.9.0'
     implementation 'net.minidev:json-smart:2.4.10'
     runtimeOnly 'io.jsonwebtoken:jjwt-impl:0.10.8'
     runtimeOnly 'io.jsonwebtoken:jjwt-jackson:0.10.8'
